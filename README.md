@@ -2,6 +2,8 @@
 
 GitHub Finder is a web application built with React.js and Tailwind CSS that allows you to search for GitHub users by their username and display their details.
 
+## [Live Demo](https://github-finder-lyart-gamma.vercel.app/)
+
 ## Features
 
 - Search for GitHub users by their username
